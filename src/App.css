@@ -1,0 +1,12 @@
+.container {
+  margin: 50px auto;
+}
+.submit {
+  justify-content: center;
+  display: flex;
+  font-size: 20px;
+  margin: 30px auto !important;
+  color: white;
+  width: 40%;
+  background: rgb(139, 139, 235);
+}
